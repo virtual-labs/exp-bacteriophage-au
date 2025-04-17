@@ -2,35 +2,67 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A lysogenic cycle involves",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Early lysis of the host cell",
+        "b": "The ultimate formation of a prophage",
+        "c": "Lysis by the lamda lytic protein",
+        "d": "A period of genome integration"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When a virus kills the infected host cell in which it is replicating, the reproductive cycle is called as ----------------- cycle",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Phagocytic",
+        "b": "Lytic",
+        "c": "Viroidal",
+        "d": "Endocytic"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following are not matched correctly:",
+      "answers": {
+        "a": "Temperate virus - infecting virus",
+        "b": "Virulent virus - lytic cycle",
+        "c": "Lytic cycle - kills host cell",
+        "d": "Lysogenic virus - genome becomes part of host genome"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "RNA is the genetic material of some",
+      "answers": {
+        "a": "Viruses",
+        "b": "Bacteria",
+        "c": "Fungi",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "TRIzol reagent is a mono-phasic solution of",
+      "answers": {
+        "a": "Isopropanol, Phenol",
+        "b": "Phenol, Guanidine isothiocyanate",
+        "c": "Isopropanol, Guanidine isothiocyanate",
+        "d": "Chloroform, Phenol"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an example of protein denaturant used in RNA isolation",
+      "answers": {
+        "a": "Ethanol",
+        "b": "Isopropanol",
+        "c": "Guanidine isothiocyanate",
+        "d": "Tris"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
