@@ -9,7 +9,7 @@
         "c": "Bacteriophage",
         "d": "Prion"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -31,7 +31,7 @@
         "c": "Uracil",
         "d": "Thymine"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -42,7 +42,7 @@
         "c": "Fungi",
         "d": "None of the above"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
@@ -53,7 +53,7 @@
         "c": "Isopropanol, Guanidine isothiocyanate",
         "d": "Chloroform, Phenol"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
