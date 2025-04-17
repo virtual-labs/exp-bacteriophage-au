@@ -9,7 +9,7 @@
         "c": "Lysis by the lamda lytic protein",
         "d": "A period of genome integration"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -20,7 +20,7 @@
         "c": "Viroidal",
         "d": "Endocytic"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -31,40 +31,49 @@
         "c": "Lytic cycle - kills host cell",
         "d": "Lysogenic virus - genome becomes part of host genome"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "RNA is the genetic material of some",
+      "question": "A virus that can reproduce by either the lytic cycle or the lysogenic cycle is called",
       "answers": {
-        "a": "Viruses",
-        "b": "Bacteria",
-        "c": "Fungi",
-        "d": "None of the above"
+        "a": "A virulent phage",
+        "b": "A lysogenic phage",
+        "c": "A temperate phage",
+        "d": "A non virulent phage"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "TRIzol reagent is a mono-phasic solution of",
+      "question": "In this assay, the plaques on the agar plate are areas where:",
       "answers": {
-        "a": "Isopropanol, Phenol",
-        "b": "Phenol, Guanidine isothiocyanate",
-        "c": "Isopropanol, Guanidine isothiocyanate",
-        "d": "Chloroform, Phenol"
+        "a": "Phages are growing",
+        "b": "Infected bacteria have lysed",
+        "c": "The phages have died",
+        "d": "Uninfected bacteria are growing"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Virulent phages undergo a __________ life cycle, whereas temperate phages are capable of undergoing a __________ cycle.",
+      "answers": {
+        "a": "Infective; Retroviral",
+        "b": "Retroviral; Infective",
+        "c": "Lytic; Lysogenic",
+        "d": "Lysogenic; Lytic"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is an example of protein denaturant used in RNA isolation",
+      "question": "DEPC inctivates the RNases by the covalent modifications of the histidine residues",
       "answers": {
-        "a": "Ethanol",
-        "b": "Isopropanol",
-        "c": "Guanidine isothiocyanate",
-        "d": "Tris"
+        "a": "True",
+        "b": "False"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
