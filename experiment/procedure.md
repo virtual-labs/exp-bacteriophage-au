@@ -37,7 +37,7 @@ Heating block or water  bath preset   to 47°C and  ice-water bath.
 
 2. To prepare plating bacteria, inoculate 5 ml of LB or YT medium in a 20-ml sterile culture tube with a single,  well-isolated colony picked from the agar plate prepared in Step 1. Agitate the culture for 6-8 hours at 37°C in a rotary shaker. Chill the culture in an ice bath for 20 minutes and then store it at 4°C. These plating bacteria can be stored for periods of up to 1 week at 4°C.
 
-Note:IMPORTANT, DO NOT  grow  the cells to saturation, as this will increase the risk of losing the pili encoded by the F' plasmid.
+<b>Note: IMPORTANT, DO NOT  grow  the cells to saturation, as this will increase the risk of losing the pili encoded by the F' plasmid.</b>
 
 3. Prepare sterile tubes containing 3 ml of melted LB or YT medium top agar or agarose,  supplemented with 5 mM MgCl 2.  Allow the tubes to equilibrate  to 47°C in a heating block or water bath. Add 40µl of 2% X-gal solution and 40µl of 2,4% IPTG solution to each of the tubes containing top agar.
 
