@@ -4,7 +4,7 @@
 <b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
 <b> Lab | <b> Molecular Biology Virtual Lab II 
-<b> Experiment|     <b> Electroblotting
+<b> Experiment|     <b> Plating of the Bacteriophage
 
 
 ### About the Experiment 
