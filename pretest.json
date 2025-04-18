@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A virus that infects bacteria is a",
+      "answers": {
+        "a": "Retrovirus",
+        "b": "Capsid",
+        "c": "Bacteriophage",
+        "d": "Prion"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Bacteriophage DNAs that have become integrated into the host cell chromosome are called",
+      "answers": {
+        "a": "Plasmids",
+        "b": "T-even bacteriophages",
+        "c": "Prophages",
+        "d": "Transposons"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is NOT one of the bases in RNA molecule?",
+      "answers": {
+        "a": "Adenine",
+        "b": "Cytosine",
+        "c": "Uracil",
+        "d": "Thymine"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "RNA is the genetic material of some",
+      "answers": {
+        "a": "Viruses",
+        "b": "Bacteria",
+        "c": "Fungi",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "TRIzol reagent is a mono-phasic solution of",
+      "answers": {
+        "a": "Isopropanol, Phenol",
+        "b": "Phenol, Guanidine isothiocyanate",
+        "c": "Isopropanol, Guanidine isothiocyanate",
+        "d": "Chloroform, Phenol"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an example of protein denaturant used in RNA isolation",
+      "answers": {
+        "a": "Ethanol",
+        "b": "Isopropanol",
+        "c": "Guanidine isothiocyanate",
+        "d": "Tris"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

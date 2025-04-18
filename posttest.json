@@ -1,0 +1,80 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A lysogenic cycle involves",
+      "answers": {
+        "a": "Early lysis of the host cell",
+        "b": "The ultimate formation of a prophage",
+        "c": "Lysis by the lamda lytic protein",
+        "d": "A period of genome integration"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a virus kills the infected host cell in which it is replicating, the reproductive cycle is called as ----------------- cycle",
+      "answers": {
+        "a": "Phagocytic",
+        "b": "Lytic",
+        "c": "Viroidal",
+        "d": "Endocytic"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following are not matched correctly:",
+      "answers": {
+        "a": "Temperate virus - infecting virus",
+        "b": "Virulent virus - lytic cycle",
+        "c": "Lytic cycle - kills host cell",
+        "d": "Lysogenic virus - genome becomes part of host genome"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A virus that can reproduce by either the lytic cycle or the lysogenic cycle is called",
+      "answers": {
+        "a": "A virulent phage",
+        "b": "A lysogenic phage",
+        "c": "A temperate phage",
+        "d": "A non virulent phage"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In this assay, the plaques on the agar plate are areas where:",
+      "answers": {
+        "a": "Phages are growing",
+        "b": "Infected bacteria have lysed",
+        "c": "The phages have died",
+        "d": "Uninfected bacteria are growing"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Virulent phages undergo a __________ life cycle, whereas temperate phages are capable of undergoing a __________ cycle.",
+      "answers": {
+        "a": "Infective; Retroviral",
+        "b": "Retroviral; Infective",
+        "c": "Lytic; Lysogenic",
+        "d": "Lysogenic; Lytic"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "DEPC inctivates the RNases by the covalent modifications of the histidine residues",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
